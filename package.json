@@ -1,0 +1,25 @@
+{
+  "name": "landing-async-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebaMat3/landing-async-test.git"
+  },
+  "keywords": [
+    "http",
+    "asynchronism",
+    "web-development",
+    "javascript"
+  ],
+  "author": "Sebastian Carballo <sebastiancarballoes@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebaMat3/landing-async-test/issues"
+  },
+  "homepage": "https://github.com/SebaMat3/landing-async-test#readme"
+}
