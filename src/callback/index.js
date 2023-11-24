@@ -20,7 +20,7 @@ function greeting(name) {
 }
 
 //calling a declared function for setTimeout
-//syntax: setTimeout(function, timeDelay, functionArg)
+//syntax: setTimeout(function, timeDelayOnMs, callbackFunction)
 setTimeout(greeting, 5000,'SebaMate');
 
 
