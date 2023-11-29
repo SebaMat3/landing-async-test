@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/SebaMat3/landing-async-test#readme",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
